@@ -1,0 +1,1 @@
+A simple Python-based Calorie Counter that helps you track your daily food intake and calculates total calories consumed. You can log meals, view summaries, and monitor your nutrition in an easy and organized way.
